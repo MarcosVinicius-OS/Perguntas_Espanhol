@@ -15,7 +15,7 @@ export default function App() {
             ],
         },
         {
-            questionText: 'El testigo ___ descrito a los ladrones de la tienda.',
+            questionText: 'El testigo _______ a los ladrones de la tienda.',
             answerOptions: [
                 { answerText: 'He descrito', isCorrect: false },
                 { answerText: 'Has descrito', isCorrect: false },
@@ -26,7 +26,7 @@ export default function App() {
             ],
         },
         {
-            questionText: '¿Ustedes ___ investigado sobre el trabajo de ciencias?',
+            questionText: '¿Ustedes _______ sobre el trabajo de ciencias?',
             answerOptions: [
                 { answerText: 'He investigado', isCorrect: false },
                 { answerText: 'Has investigado', isCorrect: false },
@@ -37,7 +37,7 @@ export default function App() {
             ],
         },
         {
-            questionText: 'Nosotros ___ leído el periódico esta mañana.',
+            questionText: 'Nosotros _______ el periódico esta mañana.',
             answerOptions: [
                 { answerText: 'He leído', isCorrect: false },
                 { answerText: 'Has leído', isCorrect: false },
